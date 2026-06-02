@@ -1,10 +1,10 @@
-# DCHGCN: Dynamic Causal Heterogeneous Graph Convolutional Network
+# ADGL： Adaptive Debiased Graph Learning for Drug Repositioning
 ## Overview
-DCHGCN is a novel model for drug-disease association prediction, which integrates causal inference and heterogeneous graph neural networks to eliminate confounding bias, distinguish causal relationships from spurious correlations, and improve the generalization and interpretability of prediction.
+ADGL is  a novel framework embedded with bias mitigation and dynamic evidence integration modules.
 
 ## Features
 - Dynamic causal graph learning with multi-source biological evidence
-- Causal intervention and bias correction modules
+- bias correction modules
 - Heterogeneous graph convolution for drug-disease association prediction
 
 
